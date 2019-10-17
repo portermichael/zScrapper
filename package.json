@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/n/a/issues"
   },
-  "homepage": "https://github.com/n/a#readme"
+  "homepage": "https://github.com/n/a#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
 }
